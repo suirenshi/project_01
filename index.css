@@ -17,8 +17,7 @@
 
      100% {
          transform: translate(650px, 200px) rotate(360deg) scale(2, 2);
-         border-radius: 50%;
-         background-color: brown;
+         background-color: lawngreen;
      }
  }
 
